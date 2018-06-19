@@ -25,4 +25,3 @@ variable reg-b
   postpone pop    postpone 1-
   postpone repeat postpone drop ; immediate
 
-: if  postpone dup postpone if ; immediate
